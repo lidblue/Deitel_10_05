@@ -10,8 +10,8 @@ public class PayrollSystemTest {
          new SalariedEmployee("John", "Smith", "111-11-1111", 800.00);    
       HourlyEmployee hourlyEmployee =                                     
          new HourlyEmployee("Karen", "Price", "222-22-2222", 16.75, 40);  
-      CommissionEmployee commissionEmployee =                             
-         new CommissionEmployee(                                          
+      EmpleadoPorComision commissionEmployee =                             
+         new EmpleadoPorComision(                                          
          "Sue", "Jones", "333-33-3333", 10000, .06);                      
       BasePlusCommissionEmployee basePlusCommissionEmployee =             
          new BasePlusCommissionEmployee(                                  

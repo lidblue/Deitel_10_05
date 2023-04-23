@@ -3,7 +3,7 @@ package Code10.Ejemplo05;
 // Fig. 10.8: BasePlusCommissionEmployee.java
 // BasePlusCommissionEmployee class extends CommissionEmployee. Comision
 
-public class BasePlusCommissionEmployee extends CommissionEmployee {
+public class BasePlusCommissionEmployee extends EmpleadoPorComision {
    private double baseSalary; // base salary per week
 
    // constructor
