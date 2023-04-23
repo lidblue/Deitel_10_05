@@ -42,4 +42,4 @@ public class SalariedEmployee extends Employee {
       return String.format("salaried employee: %s%n%s: $%,.2f",
          super.toString(), "weekly salary", getWeeklySalary());
    }                                                           
-} 
+}
