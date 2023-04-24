@@ -16,7 +16,7 @@ public abstract class Employee {
       this.socialSecurityNumber = socialSecurityNumber;
    } 
 
-   // return first name
+   // devuelve first name
    public String getFirstName() {return firstName;}
 
    // return last name
